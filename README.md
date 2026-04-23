@@ -58,8 +58,8 @@ Vous pouvez observez les différentes couches OSI sur votre site **{site}.python
 * Une entité protocolaire, c'est lélément actif qui met en place les foctions du protocole dans le système.
 * Un service,  c'est ce qu'une couche offre à la couche juste au dessus.
 * Une primitive de service,  c'est l'intéraction entre 2 couches cela peut-être une requête, une indication, une réponse, une confirmation. 
-* Une Service Data Unit (SDU) par rapport à une PDU  le SDU ce sont les données brutes reçu de la couche supérieure, et le PDU c'est ces donnée une fois qu'elles ont été traitée part la couche et ont reçu des informations de contrôle (PCI) 
-* Un point d'accès à un service SAP (Service Access Point), c'est l'interface où une couche fourni ses srvice à la couche supérieure.  
+* Une Service Data Unit (SDU) par rapport à une PDU:  le SDU ce sont les données brutes reçu de la couche supérieure, et le PDU c'est ces donnée une fois qu'elles ont été traitée part la couche et ont reçu des informations de contrôle (PCI) 
+* Un point d'accès à un service SAP (Service Access Point), c'est l'interface où une couche fourni ses services à la couche supérieure.  
 
 ---------------------------------------------------
 🗺️ Séquence 5 : Retour sur le protocole DHCP
